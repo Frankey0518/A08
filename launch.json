@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open c4_index.html",
+            "file": "c:\\Users\\15807\\Documents\\WPSDrive\\566163814\\WPS云盘\\OneDrive\\总\\STUDY\\CS\\IS\\Web\\HM\\A08\\c4_index.html"
+        }
+    ]
+}
